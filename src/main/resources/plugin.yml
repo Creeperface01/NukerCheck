@@ -1,0 +1,4 @@
+name: NukerCheck
+version: "1.0"
+main: com.creeperface.bukkit.nukercheck.NukerCheck
+author: CreeperFace
